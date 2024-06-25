@@ -6,4 +6,5 @@ function sayBye() {
 }
 function work() {
   console.log("work!");
+  alert("hello");
 }
