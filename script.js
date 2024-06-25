@@ -4,3 +4,6 @@ function sayHi() {
 function sayBye() {
   console.log("bye!");
 }
+function work() {
+  console.log("work!");
+}
